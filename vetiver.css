@@ -1,8 +1,48 @@
-#desve{
+center{
+    font-size: 25px;
+    color: rgb(56, 55, 55);
+}
+
+.container{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.latber{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: large;
 }
 
-#p1{
+.gamum{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+}
 
+.dabung{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+.batakar{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+.pictures{
+    width: 300px;
+    height: 200px;
+    margin: 3px;
+    float: left;
+}
+
+.manfaat{
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+.pendapat{
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif
 }
